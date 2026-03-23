@@ -5,6 +5,7 @@
 ### Added
 
 ### Changed
+- \[[#373](https://github.com/rust-vmm/vm-memory/pull/373)\] Make the 'rawfd' feature a NOP on Windows
 
 ### Fixed
 
